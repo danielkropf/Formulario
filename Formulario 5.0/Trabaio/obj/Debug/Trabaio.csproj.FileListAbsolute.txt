@@ -1,0 +1,39 @@
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.exe.config
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.exe
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.pdb
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.csprojResolveAssemblyReference.cache
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.Formulario.resources
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.Properties.Resources.resources
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.csproj.GenerateResource.Cache
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.exe
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.pdb
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\bin\Debug\Trabaio.exe.config
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.exe
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.pdb
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\bin\Debug\Trabaio.exe
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\bin\Debug\Trabaio.pdb
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.Formulario.resources
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.Properties.Resources.resources
+C:\Users\Daniel.Louro\Desktop\Formulario\Trabaio\obj\Debug\Trabaio.csproj.GenerateResource.Cache
+G:\2015\Formulario 3.0\Trabaio\bin\Debug\Trabaio.exe.config
+G:\2015\Formulario 3.0\Trabaio\obj\Debug\Trabaio.exe
+G:\2015\Formulario 3.0\Trabaio\obj\Debug\Trabaio.pdb
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\bin\Debug\Trabaio.exe.config
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.exe
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.pdb
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.csprojResolveAssemblyReference.cache
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.Formulario.resources
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.Properties.Resources.resources
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\obj\Debug\Trabaio.csproj.GenerateResource.Cache
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\bin\Debug\Trabaio.exe
+C:\Users\daniel.louro\Desktop\Formulario 3.0\Trabaio\bin\Debug\Trabaio.pdb
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\bin\Debug\Trabaio.exe.config
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.exe
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.pdb
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\bin\Debug\Trabaio.exe
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\bin\Debug\Trabaio.pdb
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.csprojResolveAssemblyReference.cache
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.Formulario.resources
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.Properties.Resources.resources
+G:\2015\Formulario All Versions\Formulario 5.0\Trabaio\obj\Debug\Trabaio.csproj.GenerateResource.Cache
