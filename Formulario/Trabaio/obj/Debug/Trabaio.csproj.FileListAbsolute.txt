@@ -1,0 +1,9 @@
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.exe.config
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.exe
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\bin\Debug\Trabaio.pdb
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.csprojResolveAssemblyReference.cache
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.Formulario.resources
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.Properties.Resources.resources
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.csproj.GenerateResource.Cache
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.exe
+C:\Users\isaque.araujo\Desktop\Trabaio\Trabaio\obj\Debug\Trabaio.pdb
